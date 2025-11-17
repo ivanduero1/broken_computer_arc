@@ -1,0 +1,3 @@
+## enter commands into terminal
+pip install datascience
+pip install otter-grader
